@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sierra Moore</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://sierramoore.github.io/portfolio-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sierramoore.github.io/portfolio-2/</link>
 	<description>Developer</description>
 	<lastBuildDate>Wed, 17 Mar 2021 00:33:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>PicPixie App</title>
-		<link>/picpixie/</link>
+		<link>https://sierramoore.github.io/portfolio-2/picpixie/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 20:10:36 +0000</pubDate>
 				<category><![CDATA[Project]]></category>
-		<guid isPermaLink="false">/?p=26</guid>
+		<guid isPermaLink="false">https://sierramoore.github.io/portfolio-2/?p=26</guid>
 
 					<description><![CDATA[An app that converts your images into drawings, which you can then edit, sketch over, share, and print to color in. Built a React Native app with Expo. Connected Python backend using Axios. React Native [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="26" class="elementor elementor-26" data-elementor-settings="[]">
@@ -113,12 +113,12 @@
 			</item>
 		<item>
 		<title>Perfection Painting</title>
-		<link>/perfection-painting/</link>
+		<link>https://sierramoore.github.io/portfolio-2/perfection-painting/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 20:10:02 +0000</pubDate>
 				<category><![CDATA[Project]]></category>
-		<guid isPermaLink="false">/?p=24</guid>
+		<guid isPermaLink="false">https://sierramoore.github.io/portfolio-2/?p=24</guid>
 
 					<description><![CDATA[Website to inform and promote business services. Form input is sent to company&#8217;s google spreadsheets.   HTML5 JavaScript Sass]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="24" class="elementor elementor-24" data-elementor-settings="[]">
@@ -197,12 +197,12 @@
 			</item>
 		<item>
 		<title>VestHQ</title>
-		<link>/vesthq/</link>
+		<link>https://sierramoore.github.io/portfolio-2/vesthq/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 20:09:13 +0000</pubDate>
 				<category><![CDATA[Project]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://sierramoore.github.io/portfolio-2/?p=1</guid>
 
 					<description><![CDATA[Website for FinTech company to outline features and inform potential clients. HTML5 JavaScript Sass]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
@@ -281,12 +281,12 @@
 			</item>
 		<item>
 		<title>HarborHQ</title>
-		<link>/harborhq/</link>
+		<link>https://sierramoore.github.io/portfolio-2/harborhq/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 20:08:14 +0000</pubDate>
 				<category><![CDATA[Project]]></category>
-		<guid isPermaLink="false">/?p=22</guid>
+		<guid isPermaLink="false">https://sierramoore.github.io/portfolio-2/?p=22</guid>
 
 					<description><![CDATA[Website for a FinTech company to onboard and manage accounts. HTML5 JavaScript Sass]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22" class="elementor elementor-22" data-elementor-settings="[]">
@@ -365,12 +365,12 @@
 			</item>
 		<item>
 		<title>Care by Oceanna</title>
-		<link>/care-by-oceanna/</link>
+		<link>https://sierramoore.github.io/portfolio-2/care-by-oceanna/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 19:36:48 +0000</pubDate>
 				<category><![CDATA[Project]]></category>
-		<guid isPermaLink="false">/?p=37</guid>
+		<guid isPermaLink="false">https://sierramoore.github.io/portfolio-2/?p=37</guid>
 
 					<description><![CDATA[Website for promotions of services and inquiries. Undergoing development. WordPress PHP CSS3]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="37" class="elementor elementor-37" data-elementor-settings="[]">
@@ -449,12 +449,12 @@
 			</item>
 		<item>
 		<title>Resolution Lawyers</title>
-		<link>/resolution-lawyers/</link>
+		<link>https://sierramoore.github.io/portfolio-2/resolution-lawyers/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 19:35:34 +0000</pubDate>
 				<category><![CDATA[Project]]></category>
-		<guid isPermaLink="false">/?p=29</guid>
+		<guid isPermaLink="false">https://sierramoore.github.io/portfolio-2/?p=29</guid>
 
 					<description><![CDATA[Redid WordPress website and added custom functionality and style to theme by creating a child theme in PHP and CSS. WordPress PHP CSS3]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="29" class="elementor elementor-29" data-elementor-settings="[]">
@@ -533,12 +533,12 @@
 			</item>
 		<item>
 		<title>Manifest Ledger</title>
-		<link>/manifest-ledger/</link>
+		<link>https://sierramoore.github.io/portfolio-2/manifest-ledger/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 19:34:35 +0000</pubDate>
 				<category><![CDATA[Project]]></category>
-		<guid isPermaLink="false">/?p=34</guid>
+		<guid isPermaLink="false">https://sierramoore.github.io/portfolio-2/?p=34</guid>
 
 					<description><![CDATA[Website to inform clients of company&#8217;s service. HTML5 JavaScript Sass]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="34" class="elementor elementor-34" data-elementor-settings="[]">

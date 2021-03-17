@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Sierra Moore	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://sierramoore.github.io/portfolio-2/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sierramoore.github.io/portfolio-2/</link>
 	<description>Developer</description>
 	<lastBuildDate>Wed, 17 Mar 2021 01:07:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
